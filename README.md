@@ -37,12 +37,6 @@ A passionate **Backend Developer** from **Bangalore, India**.
 
 ---
 
-## 📊 GitHub Stats:
 
-![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakgajera&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palakgajera&layout=compact&theme=radical&langs_count=8)
-
----
 
 💻 **Let's connect and collaborate!** 🚀
