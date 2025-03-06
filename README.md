@@ -12,9 +12,13 @@ A passionate **Backend Developer** from **Bangalore, India**.
 
 ## 🚀 Skills & Technologies:
 
-### **Backend:**
+### **Frontend:**
+- HTML, CSS, JavaScript, React.js
+- Bootstrap, Tailwind CSS
+
+ ### **Backend:**
 - Java, Spring Boot, Hibernate, RESTful APIs
-- Node.js, Express.js
+- Node.js (Basics), Express.js
 
 ### **Database & Cloud:**
 - MySQL, PostgreSQL, MongoDB
@@ -22,7 +26,7 @@ A passionate **Backend Developer** from **Bangalore, India**.
 
 ### **Tools & Others:**
 - Git, GitHub, Postman, Docker (Basics)
-- JUnit, Maven, CI/CD (Basic Understanding)
+-  Maven, CI/CD (Basic Understanding)
 
 ---
 
@@ -37,7 +41,7 @@ A passionate **Backend Developer** from **Bangalore, India**.
 
 ![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakgajera&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palakgajera&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palakgajera&layout=compact&theme=radical&langs_count=8)
 
 ---
 
