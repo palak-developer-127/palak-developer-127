@@ -18,7 +18,7 @@ A passionate **Backend Developer** from **Bangalore, India**.
 
  ### **Backend:**
 - Java, Spring Boot, Hibernate, RESTful APIs
-- Node.js (Basics), Express.js
+- Node.js , Express.js
 
 ### **Database & Cloud:**
 - MySQL, PostgreSQL, MongoDB
